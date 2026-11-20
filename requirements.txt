@@ -1,0 +1,7 @@
+numpy
+torch
+transformers
+pykeen
+rapidfuzz
+scikit-learn
+pytest
